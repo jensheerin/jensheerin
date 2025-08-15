@@ -9,10 +9,6 @@
 
   <!-- https://github.com/jensheerin/github-readme-stats -->
  
-  <!-- https://github.com/jensheerin/github-readme-activity-graph -->
-
-  <a href="https://github.com/jensheerin/github-readme-activity-graph"><img alt="JenSheerin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=JenSheerin&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 <p align="center">
   <a href="https://github.com/jensheerin?tab=repositories&q=&type=&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
